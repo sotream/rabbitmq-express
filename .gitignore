@@ -1,0 +1,7 @@
+*credentials*
+node_modules
+**/node_modules
+*.json
+!package.json
+!package-lock.json
+*.csv
